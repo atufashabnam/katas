@@ -20,10 +20,9 @@
 // SOLUTION
 
 
-public class NumberUtils {
+public class DoesMyNumberLookBigInThis {
 
     public static boolean isNarcissistic(int number) {
-        // TODO replace with your code
         String num = String.valueOf(number);
         int sum = 0;
         for(int i = 0; i < num.length(); i++ ){

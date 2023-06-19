@@ -16,7 +16,7 @@
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Accumul {
+public class Mumbling {
     
     public static String accum(String s) {
      // your code

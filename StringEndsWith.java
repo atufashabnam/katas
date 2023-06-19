@@ -11,7 +11,7 @@
 
 // SOLUTION
 
-public class Kata {
+public class StringEndsWith {
   public static boolean solution(String str, String ending) {
     if((str.length() - ending.length()) < 0){
       return false;

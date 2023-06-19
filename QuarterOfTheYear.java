@@ -13,7 +13,7 @@
 
 // SOLUTION
 
-public class Kata {
+public class QuarterOfTheYear {
     public static int quarterOf(int month) {
         // Your code here
       if(month >= 1 && month <= 3){

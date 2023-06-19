@@ -19,7 +19,7 @@
 // SOLUTION
 
 
-public class Triangular {
+public class TriangularTreasure {
     public static long triangular(long n) {
             if (n <= 0) {
                 return 0;

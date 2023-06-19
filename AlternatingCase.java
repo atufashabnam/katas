@@ -15,7 +15,7 @@
 
 
 import java.util.stream.Collectors;
-public class StringUtils {
+public class AlternatingCase {
 
     public static String toAlternativeString(String string) {
         // your code here!

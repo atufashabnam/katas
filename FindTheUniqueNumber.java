@@ -17,7 +17,7 @@
 // SOLUTION
 
 
-public class Kata {
+public class FindTheUniqueNumber {
     public static double findUniq(double arr[]) {
   double uniqueNumber = 0;
         boolean foundUnique = false;
